@@ -1,0 +1,11 @@
+# Données (à télécharger depuis Kaggle)
+data/
+
+# Fichiers générés par le notebook
+*.joblib
+test_predictions.csv
+
+# Fichiers temporaires
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
